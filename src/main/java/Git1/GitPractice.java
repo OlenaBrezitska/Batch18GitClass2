@@ -5,5 +5,6 @@ public class GitPractice {
 
         System.out.println("Class 1");
         //first change after git init
+        //third change
     }
 }
